@@ -1,7 +1,11 @@
 Dear [NAME],
 
+This is an automated program I coded in July to send birthdays wishes to people.
+
+If this reaches you it means I remembered your birthday.
+
 It's your birthday! Have a great day!
 
-All my love,
+Cakes and Candles!
 
-Your friend
+Seth
