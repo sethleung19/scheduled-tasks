@@ -1,7 +1,11 @@
-Dear [NAME],
+Hello [NAME],
+
+This is an automated program I coded in July to send birthdays wishes to people.
+
+If this reaches you it means I remembered your birthday.
 
 Happy birthday!
 
 All the best for the year!
 
-Your friend
+Seth
