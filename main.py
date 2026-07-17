@@ -4,8 +4,8 @@ import datetime as dt
 import pandas as pd
 import os
 
-email = os.environ.get("sethleung0719@gmail.com")
-password = os.environ.get("qzfy vyef cycp rlwx")
+email = os.environ.get("my_email")
+password = os.environ.get("my_password")
 
 birthdays_data = pd.read_csv("birthdays.csv")
 letter_number = random.randint(1, 3)
