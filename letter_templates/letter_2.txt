@@ -1,7 +1,9 @@
 Hey [NAME],
 
-Happy birthday! Have a wonderful time today and eat lots of cake!
+This is an automated program I coded in July to send birthdays wishes to people.
 
-Lots of love,
+If this reaches you it means I remembered your birthday.
 
-Your friend
+Happy birthday! Have a wonderful time today, fatten up and eat lots of cake!
+
+Seth
